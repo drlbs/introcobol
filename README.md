@@ -1,6 +1,6 @@
 # introcobol
 
-This program is from a tutorial on COBOL found at
+This program, which I have named tread.cob, is from a tutorial on COBOL found at
 
 https://turreta.com/2014/11/27/how-to-read-file-in-cobol/
 
